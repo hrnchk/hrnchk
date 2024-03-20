@@ -1,0 +1,22 @@
+{
+  "name": "hrnchk",
+  "version": "1.0.0",
+  "description": "<!-- **hrnchk/hrnchk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hrnchk/hrnchk.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrnchk/hrnchk/issues"
+  },
+  "homepage": "https://github.com/hrnchk/hrnchk#readme"
+}
